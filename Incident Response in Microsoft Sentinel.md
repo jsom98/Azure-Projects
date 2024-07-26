@@ -16,7 +16,7 @@ Then I added the malicious IP address to be blocked at the firewall
 
 I then closed it as true positive and left comments on what I found and did.
 
-![Incident%20Response%20in%20Microsoft%20Sentinel%206f0eb6184ba04cae92055fa0ec22d567/image5.png](https://github.com/jsom98/Pictures/blob/main/image5.png)
+![Incident%20Response%20in%20Microsoft%20Sentinel%206f0eb6184ba04cae92055fa0ec22d567/image5.png](https://github.com/jsom98/Pictures/blob/main/Screenshot%205.png)
 
 In this report I found another brute force attempt on my MS SQL server on my Windows VM.
 
